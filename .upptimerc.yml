@@ -14,10 +14,9 @@ sites:
     check: "tcp-ping"
     url: 168.138.103.18
   - name: Catto-Pro DNS
-    check: "tcp-ping"
-    url: 198.251.83.37
+    url: https://dns.catto.pro/healthcheck
   - name: Catto-Pro Upload API
-    url: https://upload.catto.pro
+    url: https://upload.catto.pro/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
