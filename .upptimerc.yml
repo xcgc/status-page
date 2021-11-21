@@ -8,11 +8,11 @@ sites:
   - name: Catto-Pro API
     url: https://api.catto.pro
   - name: Catto-Pro SG API
-    method: POST
-    url: https://sg.upload.catto.pro
+    check: "tcp-ping"
+    url: 52.139.218.214
   - name: Catto-Pro AU API
-    method: POST
-    url: https://au.upload.catto.pro
+    check: "tcp-ping"
+    url: 168.138.103.18
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
