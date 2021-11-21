@@ -8,8 +8,10 @@ sites:
   - name: Catto-Pro API
     url: https://api.catto.pro
   - name: Catto-Pro SG API
+    method: POST
     url: https://sg.upload.catto.pro
   - name: Catto-Pro AU API
+    method: POST
     url: https://au.upload.catto.pro
 
 status-website:
