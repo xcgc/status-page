@@ -7,6 +7,12 @@ sites:
     url: https://catto.pro
   - name: Catto-Pro API
     url: https://api.catto.pro
+  - name: Catto-Pro SG API
+    check: "tcp-ping"
+    url: 52.139.218.214
+  - name: Catto-Pro AU API
+    check: "tcp-ping"
+    url: 168.138.103.18
   - name: Catto-Pro DNS
     check: "tcp-ping"
     url: https://dns.catto.pro
