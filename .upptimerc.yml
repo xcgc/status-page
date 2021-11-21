@@ -15,9 +15,8 @@ sites:
     url: 168.138.103.18
   - name: Catto-Pro DNS
     check: "tcp-ping"
-    url: https://dns.catto.pro
+    url: 198.251.83.37
   - name: Catto-Pro Upload API
-    check: "tcp-ping"
     url: https://upload.catto.pro
 
 status-website:
