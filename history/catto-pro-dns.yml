@@ -1,7 +1,7 @@
-url: 198.251.83.37
+url: https://dns.catto.pro/healthcheck
 status: up
 code: 200
-responseTime: 78
-lastUpdated: 2021-11-21T15:03:49.926Z
+responseTime: 411
+lastUpdated: 2021-11-21T15:07:35.584Z
 startTime: Sun Nov 21 2021 14:33:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
