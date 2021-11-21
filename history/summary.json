@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3370,
-    "timeDay": 3370,
-    "timeWeek": 3370,
-    "timeMonth": 3370,
-    "timeYear": 3370,
+    "time": 1728,
+    "timeDay": 1728,
+    "timeWeek": 1728,
+    "timeMonth": 1728,
+    "timeYear": 1728,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 207,
-    "timeWeek": 207,
-    "timeMonth": 207,
-    "timeYear": 207,
+    "time": 165,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/sg.upload.catto.pro",
     "slug": "catto-pro-sg-api",
     "status": "down",
-    "uptime": "3.28%",
-    "uptimeDay": "3.28%",
-    "uptimeWeek": "3.28%",
-    "uptimeMonth": "3.28%",
-    "uptimeYear": "3.28%",
-    "time": 552,
-    "timeDay": 552,
-    "timeWeek": 552,
-    "timeMonth": 552,
-    "timeYear": 552,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 551,
+    "timeDay": 551,
+    "timeWeek": 551,
+    "timeMonth": 551,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2021-11-21": 0
+      "2021-11-21": 321
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/au.upload.catto.pro",
     "slug": "catto-pro-au-api",
     "status": "down",
-    "uptime": "7.34%",
-    "uptimeDay": "7.34%",
-    "uptimeWeek": "7.34%",
-    "uptimeMonth": "7.34%",
-    "uptimeYear": "7.34%",
-    "time": 695,
-    "timeDay": 695,
-    "timeWeek": 695,
-    "timeMonth": 695,
-    "timeYear": 695,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 624,
+    "timeDay": 624,
+    "timeWeek": 624,
+    "timeMonth": 624,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2021-11-21": 0
+      "2021-11-21": 321
     }
   }
 ]
