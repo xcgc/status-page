@@ -8,11 +8,9 @@ sites:
   - name: Catto-Pro API
     url: https://api.catto.pro
   - name: Catto-Pro SG API
-    check: "tcp-ping"
-    url: 52.139.218.214
+    url: https://sg.upload.catto.pro/healthcheck
   - name: Catto-Pro AU API
-    check: "tcp-ping"
-    url: 168.138.103.18
+    url: https://au.upload.catto.pro/healthcheck
   - name: Catto-Pro DNS
     url: https://dns.catto.pro/healthcheck
   - name: Catto-Pro Upload API
