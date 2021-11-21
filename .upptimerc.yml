@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: xcgc # Your GitHub organization or username, where this repository lives
+repo: status-page # The name of this repository
 
 sites:
   - name: Catto-Pro Main Site
@@ -13,6 +13,12 @@ sites:
   - name: Catto-Pro AU API
     check: "tcp-ping"
     url: 168.138.103.18
+  - name: Catto-Pro DNS
+    check: "tcp-ping"
+    url: https://dns.catto.pro
+  - name: Catto-Pro Upload API
+    check: "tcp-ping"
+    url: https://upload.catto.pro
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
