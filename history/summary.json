@@ -81,7 +81,7 @@
     "url": "https://dns.catto.pro/healthcheck",
     "icon": "https://favicons.githubusercontent.com/dns.catto.pro",
     "slug": "catto-pro-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -93,6 +93,7 @@
     "timeMonth": 238,
     "timeYear": 227,
     "dailyMinutesDown": {
+      "2022-02-06": 0,
       "2021-12-04": 329
     }
   },
