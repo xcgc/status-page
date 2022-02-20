@@ -24,7 +24,7 @@
     "slug": "catto-pro-api",
     "status": "up",
     "uptime": "98.83%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "0.02%",
     "uptimeWeek": "84.77%",
     "uptimeMonth": "96.50%",
     "uptimeYear": "98.83%",
@@ -78,7 +78,7 @@
     "timeMonth": 568,
     "timeYear": 577,
     "dailyMinutesDown": {
-      "2022-02-20": 480,
+      "2022-02-20": 481,
       "2022-02-19": 1054,
       "2021-11-21": 522
     }
