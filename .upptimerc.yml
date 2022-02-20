@@ -6,7 +6,7 @@ sites:
   - name: Catto-Pro Main Site
     url: https://catto.pro
   - name: Catto-Pro API
-    url: https://api.catto.pro
+    url: https://api.catto.pictures
   - name: Catto-Pro SG API
     url: https://sg.upload.catto.pro/healthcheck
   - name: Catto-Pro AU API
@@ -14,7 +14,7 @@ sites:
   - name: Catto-Pro DNS
     url: https://dns.catto.pro/healthcheck
   - name: Catto-Pro Upload API
-    url: https://upload.catto.pro/healthcheck
+    url: https://upload.catto.pictures/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
