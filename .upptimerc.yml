@@ -4,7 +4,7 @@ repo: status-page # The name of this repository
 
 sites:
   - name: Catto-Pro Main Site
-    url: https://catto.pro
+    url: https://catto.pictures
   - name: Catto-Pro API
     url: https://api.catto.pictures
   - name: Catto-Pro SG API
@@ -12,7 +12,7 @@ sites:
   - name: Catto-Pro AU API
     url: https://au.upload.catto.pro/healthcheck
   - name: Catto-Pro DNS
-    url: https://dns.catto.pro/healthcheck
+    url: https://dns.catto.pictures/healthcheck
   - name: Catto-Pro Upload API
     url: https://upload.catto.pictures/healthcheck
 
