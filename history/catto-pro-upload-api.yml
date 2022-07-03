@@ -1,7 +1,7 @@
 url: https://upload.catto.pictures/healthcheck
-status: up
-code: 200
-responseTime: 305
-lastUpdated: 2022-07-03T05:51:52.249Z
+status: down
+code: 500
+responseTime: 5309
+lastUpdated: 2022-07-03T22:48:41.067Z
 startTime: Sun Nov 21 2021 14:33:14 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
