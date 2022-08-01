@@ -1,7 +1,7 @@
 url: https://dns.catto.pictures/healthcheck
-status: up
-code: 200
-responseTime: 183
-lastUpdated: 2022-07-31T23:21:28.473Z
+status: down
+code: 502
+responseTime: 3318
+lastUpdated: 2022-08-01T08:35:56.667Z
 startTime: Sun Nov 21 2021 14:33:13 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
