@@ -65,7 +65,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 84,
+      "2023-03-22": 188,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -449,7 +449,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 84,
+      "2023-03-22": 188,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -821,9 +821,9 @@
     "url": "https://dns.catto.pictures/healthcheck",
     "icon": "https://icons.duckduckgo.com/ip3/dns.catto.pictures.ico",
     "slug": "catto-pro-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.59%",
@@ -833,6 +833,7 @@
     "timeMonth": 388,
     "timeYear": 380,
     "dailyMinutesDown": {
+      "2023-03-22": 0,
       "2023-03-19": 30,
       "2023-02-19": 25,
       "2023-02-17": 162,
