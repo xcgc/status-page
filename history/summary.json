@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 336,
-    "timeDay": 395,
-    "timeWeek": 362,
+    "time": 337,
+    "timeDay": 400,
+    "timeWeek": 378,
     "timeMonth": 324,
-    "timeYear": 345,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.catto.pictures.ico",
     "slug": "catto-pro-api",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.86%",
-    "time": 475,
-    "timeDay": 500,
-    "timeWeek": 359,
+    "time": 476,
+    "timeDay": 513,
+    "timeWeek": 394,
     "timeMonth": 368,
-    "timeYear": 431,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2023-06-12": 85,
       "2023-05-29": 204,
@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.upload.catto.pro.ico",
     "slug": "catto-pro-sg-api",
     "status": "down",
-    "uptime": "15.04%",
+    "uptime": "15.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -59,7 +59,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 110,
+      "2023-07-09": 120,
+      "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
@@ -422,8 +423,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   },
   {
@@ -432,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/au.upload.catto.pro.ico",
     "slug": "catto-pro-au-api",
     "status": "down",
-    "uptime": "15.05%",
+    "uptime": "15.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -443,7 +443,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-08": 110,
+      "2023-07-09": 120,
+      "2023-07-08": 1440,
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
@@ -806,8 +807,7 @@
       "2022-07-13": 1440,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
-      "2022-07-10": 1440,
-      "2022-07-09": 1440
+      "2022-07-10": 1440
     }
   },
   {
@@ -821,10 +821,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.60%",
-    "time": 379,
-    "timeDay": 447,
-    "timeWeek": 342,
-    "timeMonth": 286,
+    "time": 380,
+    "timeDay": 338,
+    "timeWeek": 379,
+    "timeMonth": 287,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2023-06-12": 85,
@@ -866,10 +866,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.86%",
     "time": 414,
-    "timeDay": 289,
-    "timeWeek": 368,
-    "timeMonth": 337,
-    "timeYear": 418,
+    "timeDay": 434,
+    "timeWeek": 373,
+    "timeMonth": 340,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2023-06-12": 84,
       "2023-05-29": 118,
