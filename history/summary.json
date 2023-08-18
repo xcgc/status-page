@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 407,
-    "timeWeek": 344,
-    "timeMonth": 374,
-    "timeYear": 352,
+    "timeDay": 385,
+    "timeWeek": 354,
+    "timeMonth": 383,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 433,
-    "timeDay": 733,
-    "timeWeek": 359,
-    "timeMonth": 357,
-    "timeYear": 416,
+    "timeDay": 310,
+    "timeWeek": 363,
+    "timeMonth": 356,
+    "timeYear": 415,
     "dailyMinutesDown": {
       "2023-06-12": 85,
       "2023-05-29": 204,
@@ -48,7 +48,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.upload.catto.pro.ico",
     "slug": "catto-pro-sg-api",
     "status": "down",
-    "uptime": "14.09%",
+    "uptime": "14.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -59,7 +59,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-17": 67,
+      "2023-08-18": 68,
+      "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -422,8 +423,7 @@
       "2022-08-22": 1440,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
-      "2022-08-19": 1440,
-      "2022-08-18": 1440
+      "2022-08-19": 1440
     }
   },
   {
@@ -432,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/au.upload.catto.pro.ico",
     "slug": "catto-pro-au-api",
     "status": "down",
-    "uptime": "14.10%",
+    "uptime": "14.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -443,7 +443,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-17": 67,
+      "2023-08-18": 68,
+      "2023-08-17": 1440,
       "2023-08-16": 1440,
       "2023-08-15": 1440,
       "2023-08-14": 1440,
@@ -806,8 +807,7 @@
       "2022-08-22": 1440,
       "2022-08-21": 1440,
       "2022-08-20": 1440,
-      "2022-08-19": 1440,
-      "2022-08-18": 1440
+      "2022-08-19": 1440
     }
   },
   {
@@ -816,16 +816,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.catto.pictures.ico",
     "slug": "catto-pro-dns",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 354,
-    "timeDay": 423,
-    "timeWeek": 382,
-    "timeMonth": 362,
-    "timeYear": 360,
+    "time": 353,
+    "timeDay": 85,
+    "timeWeek": 300,
+    "timeMonth": 360,
+    "timeYear": 359,
     "dailyMinutesDown": {
       "2023-06-12": 85,
       "2023-05-29": 135,
@@ -863,9 +863,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 417,
-    "timeDay": 116,
-    "timeWeek": 346,
-    "timeMonth": 326,
+    "timeDay": 393,
+    "timeWeek": 329,
+    "timeMonth": 334,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2023-06-12": 84,
