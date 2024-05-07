@@ -1,7 +1,7 @@
 url: https://api.catto.pictures
-status: up
-code: 200
-responseTime: 481
-lastUpdated: 2024-05-06T23:16:30.853Z
+status: down
+code: 500
+responseTime: 173
+lastUpdated: 2024-05-07T00:38:53.562Z
 startTime: 2021-11-21T05:36:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
