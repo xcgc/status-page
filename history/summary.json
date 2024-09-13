@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 376,
-    "timeDay": 424,
-    "timeWeek": 408,
-    "timeMonth": 401,
+    "time": 375,
+    "timeDay": 280,
+    "timeWeek": 403,
+    "timeMonth": 406,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2023-10-30": 31
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.79%",
     "time": 460,
-    "timeDay": 459,
-    "timeWeek": 517,
-    "timeMonth": 487,
-    "timeYear": 478,
+    "timeDay": 904,
+    "timeWeek": 594,
+    "timeMonth": 502,
+    "timeYear": 479,
     "dailyMinutesDown": {
       "2024-09-01": 388,
       "2024-06-20": 16,
@@ -52,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.upload.catto.pro.ico",
     "slug": "catto-pro-sg-api",
     "status": "down",
-    "uptime": "8.71%",
+    "uptime": "8.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 96,
+      "2024-09-13": 96,
+      "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -426,8 +427,7 @@
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
-      "2023-09-15": 1440,
-      "2023-09-14": 1440
+      "2023-09-15": 1440
     }
   },
   {
@@ -436,7 +436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/au.upload.catto.pro.ico",
     "slug": "catto-pro-au-api",
     "status": "down",
-    "uptime": "8.71%",
+    "uptime": "8.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -447,7 +447,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-12": 96,
+      "2024-09-13": 96,
+      "2024-09-12": 1440,
       "2024-09-11": 1440,
       "2024-09-10": 1440,
       "2024-09-09": 1440,
@@ -810,8 +811,7 @@
       "2023-09-18": 1440,
       "2023-09-17": 1440,
       "2023-09-16": 1440,
-      "2023-09-15": 1440,
-      "2023-09-14": 1440
+      "2023-09-15": 1440
     }
   },
   {
@@ -826,9 +826,9 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.76%",
     "time": 325,
-    "timeDay": 411,
-    "timeWeek": 310,
-    "timeMonth": 349,
+    "timeDay": 374,
+    "timeWeek": 307,
+    "timeMonth": 353,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2024-09-01": 388,
@@ -850,16 +850,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/upload.catto.pictures.ico",
     "slug": "catto-pro-upload-api",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.79%",
-    "time": 376,
-    "timeDay": 654,
-    "timeWeek": 456,
-    "timeMonth": 413,
-    "timeYear": 386,
+    "time": 377,
+    "timeDay": 423,
+    "timeWeek": 397,
+    "timeMonth": 412,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2024-09-01": 387,
       "2024-06-20": 15,
