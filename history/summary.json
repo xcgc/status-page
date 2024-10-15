@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 379,
-    "timeDay": 144,
-    "timeWeek": 343,
-    "timeMonth": 370,
+    "timeDay": 381,
+    "timeWeek": 312,
+    "timeMonth": 367,
     "timeYear": 389,
     "dailyMinutesDown": {
       "2023-10-30": 31
@@ -31,10 +31,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.79%",
     "time": 470,
-    "timeDay": 464,
-    "timeWeek": 467,
-    "timeMonth": 518,
-    "timeYear": 488,
+    "timeDay": 271,
+    "timeWeek": 454,
+    "timeMonth": 510,
+    "timeYear": 487,
     "dailyMinutesDown": {
       "2024-09-16": 20,
       "2024-09-01": 388,
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-14": 103,
+      "2024-10-15": 102,
+      "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -427,8 +428,7 @@
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
-      "2023-10-17": 1440,
-      "2023-10-16": 1440
+      "2023-10-17": 1440
     }
   },
   {
@@ -448,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-10-14": 103,
+      "2024-10-15": 102,
+      "2024-10-14": 1440,
       "2024-10-13": 1440,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
@@ -811,8 +812,7 @@
       "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
-      "2023-10-17": 1440,
-      "2023-10-16": 1440
+      "2023-10-17": 1440
     }
   },
   {
@@ -822,15 +822,15 @@
     "slug": "catto-pro-dns",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.75%",
-    "time": 335,
-    "timeDay": 480,
-    "timeWeek": 351,
-    "timeMonth": 323,
-    "timeYear": 330,
+    "time": 334,
+    "timeDay": 427,
+    "timeWeek": 347,
+    "timeMonth": 327,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2024-10-13": 18,
       "2024-10-12": 19,
@@ -859,11 +859,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.79%",
-    "time": 382,
-    "timeDay": 401,
-    "timeWeek": 448,
-    "timeMonth": 423,
-    "timeYear": 391,
+    "time": 383,
+    "timeDay": 606,
+    "timeWeek": 459,
+    "timeMonth": 435,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2024-09-16": 19,
       "2024-09-01": 387,
