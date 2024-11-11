@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 381,
-    "timeDay": 461,
-    "timeWeek": 357,
-    "timeMonth": 368,
-    "timeYear": 390,
+    "timeDay": 527,
+    "timeWeek": 374,
+    "timeMonth": 372,
+    "timeYear": 391,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "catto-pro-api",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "98.67%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.78%",
-    "time": 461,
-    "timeDay": 448,
-    "timeWeek": 485,
-    "timeMonth": 448,
-    "timeYear": 493,
+    "time": 462,
+    "timeDay": 672,
+    "timeWeek": 482,
+    "timeMonth": 456,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2024-11-09": 19,
       "2024-10-25": 20,
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-10": 104,
+      "2024-11-11": 101,
+      "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
@@ -427,8 +428,7 @@
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
-      "2023-11-13": 1440,
-      "2023-11-12": 1440
+      "2023-11-13": 1440
     }
   },
   {
@@ -448,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-10": 104,
+      "2024-11-11": 101,
+      "2024-11-10": 1440,
       "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
@@ -811,8 +812,7 @@
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
-      "2023-11-13": 1440,
-      "2023-11-12": 1440
+      "2023-11-13": 1440
     }
   },
   {
@@ -822,14 +822,14 @@
     "slug": "catto-pro-dns",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "79.78%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.11%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.69%",
     "time": 332,
-    "timeDay": 372,
-    "timeWeek": 359,
-    "timeMonth": 351,
+    "timeDay": 354,
+    "timeWeek": 342,
+    "timeMonth": 353,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2024-11-09": 291,
@@ -857,14 +857,14 @@
     "slug": "catto-pro-upload-api",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "98.74%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.78%",
-    "time": 388,
-    "timeDay": 551,
-    "timeWeek": 515,
-    "timeMonth": 436,
+    "time": 380,
+    "timeDay": 171,
+    "timeWeek": 480,
+    "timeMonth": 433,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2024-11-09": 18,
