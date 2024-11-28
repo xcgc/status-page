@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 384,
     "timeDay": 436,
-    "timeWeek": 386,
+    "timeWeek": 394,
     "timeMonth": 406,
-    "timeYear": 395,
+    "timeYear": 396,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "96.98%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.80%",
-    "time": 465,
-    "timeDay": 358,
-    "timeWeek": 476,
-    "timeMonth": 468,
+    "time": 463,
+    "timeDay": 232,
+    "timeWeek": 427,
+    "timeMonth": 465,
     "timeYear": 495,
     "dailyMinutesDown": {
       "2024-11-27": 195,
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 955,
+      "2024-11-28": 108,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -427,8 +428,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   },
   {
@@ -448,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 955,
+      "2024-11-28": 108,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -811,8 +812,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   },
   {
@@ -827,8 +827,8 @@
     "uptimeMonth": "96.85%",
     "uptimeYear": "99.52%",
     "time": 328,
-    "timeDay": 413,
-    "timeWeek": 379,
+    "timeDay": 387,
+    "timeWeek": 375,
     "timeMonth": 346,
     "timeYear": 339,
     "dailyMinutesDown": {
@@ -862,10 +862,10 @@
     "uptimeWeek": "97.00%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.79%",
-    "time": 387,
-    "timeDay": 418,
-    "timeWeek": 486,
-    "timeMonth": 478,
+    "time": 386,
+    "timeDay": 338,
+    "timeWeek": 465,
+    "timeMonth": 473,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2024-11-27": 194,
