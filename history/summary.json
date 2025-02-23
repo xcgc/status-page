@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 382,
-    "timeDay": 233,
+    "timeDay": 309,
     "timeWeek": 309,
-    "timeMonth": 351,
+    "timeMonth": 352,
     "timeYear": 381,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 467,
-    "timeDay": 401,
-    "timeWeek": 884,
-    "timeMonth": 479,
+    "time": 466,
+    "timeDay": 446,
+    "timeWeek": 372,
+    "timeMonth": 482,
     "timeYear": 478,
     "dailyMinutesDown": {
       "2024-11-27": 195,
@@ -63,7 +63,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 99,
+      "2025-02-23": 107,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -426,8 +427,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -447,7 +447,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-22": 99,
+      "2025-02-23": 107,
+      "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
       "2025-02-19": 1440,
@@ -810,8 +811,7 @@
       "2024-02-28": 1440,
       "2024-02-27": 1440,
       "2024-02-26": 1440,
-      "2024-02-25": 1440,
-      "2024-02-24": 1440
+      "2024-02-25": 1440
     }
   },
   {
@@ -826,8 +826,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 330,
-    "timeDay": 549,
-    "timeWeek": 349,
+    "timeDay": 176,
+    "timeWeek": 347,
     "timeMonth": 333,
     "timeYear": 346,
     "dailyMinutesDown": {
@@ -861,10 +861,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
     "time": 384,
-    "timeDay": 310,
-    "timeWeek": 390,
-    "timeMonth": 348,
-    "timeYear": 401,
+    "timeDay": 375,
+    "timeWeek": 428,
+    "timeMonth": 350,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2024-11-27": 194,
       "2024-11-22": 108,
