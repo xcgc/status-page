@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
-    "timeDay": 558,
-    "timeWeek": 547,
-    "timeMonth": 438,
+    "timeDay": 255,
+    "timeWeek": 524,
+    "timeMonth": 431,
     "timeYear": 394,
     "dailyMinutesDown": {}
   },
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 457,
-    "timeDay": 515,
-    "timeWeek": 672,
-    "timeMonth": 462,
+    "time": 456,
+    "timeDay": 440,
+    "timeWeek": 679,
+    "timeMonth": 461,
     "timeYear": 442,
     "dailyMinutesDown": {
       "2025-05-09": 26,
@@ -60,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 123,
+      "2025-08-16": 117,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -423,8 +424,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   },
   {
@@ -444,7 +444,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-15": 123,
+      "2025-08-16": 117,
+      "2025-08-15": 1440,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -807,8 +808,7 @@
       "2024-08-20": 1440,
       "2024-08-19": 1440,
       "2024-08-18": 1440,
-      "2024-08-17": 1440,
-      "2024-08-16": 1440
+      "2024-08-17": 1440
     }
   },
   {
@@ -823,10 +823,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 362,
-    "timeDay": 418,
-    "timeWeek": 398,
-    "timeMonth": 410,
-    "timeYear": 366,
+    "timeDay": 336,
+    "timeWeek": 383,
+    "timeMonth": 412,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2025-05-09": 25,
       "2024-11-27": 238,
@@ -851,11 +851,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 395,
-    "timeDay": 163,
-    "timeWeek": 497,
-    "timeMonth": 379,
-    "timeYear": 381,
+    "time": 394,
+    "timeDay": 223,
+    "timeWeek": 480,
+    "timeMonth": 376,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2025-05-09": 25,
       "2024-11-27": 194,
