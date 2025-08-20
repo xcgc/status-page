@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 393,
-    "timeDay": 340,
-    "timeWeek": 366,
-    "timeMonth": 419,
+    "timeDay": 476,
+    "timeWeek": 381,
+    "timeMonth": 417,
     "timeYear": 393,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 455,
-    "timeDay": 167,
-    "timeWeek": 360,
-    "timeMonth": 458,
+    "timeDay": 344,
+    "timeWeek": 347,
+    "timeMonth": 457,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-05-09": 26,
@@ -60,7 +60,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-19": 116,
+      "2025-08-20": 114,
+      "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -423,8 +424,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -444,7 +444,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-19": 116,
+      "2025-08-20": 114,
+      "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,
@@ -807,8 +808,7 @@
       "2024-08-24": 1440,
       "2024-08-23": 1440,
       "2024-08-22": 1440,
-      "2024-08-21": 1440,
-      "2024-08-20": 1440
+      "2024-08-21": 1440
     }
   },
   {
@@ -823,8 +823,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
     "time": 363,
-    "timeDay": 303,
-    "timeWeek": 337,
+    "timeDay": 312,
+    "timeWeek": 334,
     "timeMonth": 416,
     "timeYear": 364,
     "dailyMinutesDown": {
@@ -852,10 +852,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 394,
-    "timeDay": 168,
-    "timeWeek": 237,
-    "timeMonth": 374,
-    "timeYear": 380,
+    "timeDay": 300,
+    "timeWeek": 256,
+    "timeMonth": 368,
+    "timeYear": 379,
     "dailyMinutesDown": {
       "2025-05-09": 25,
       "2024-11-27": 194,
