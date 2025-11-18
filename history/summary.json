@@ -4,18 +4,20 @@
     "url": "https://catto.pictures",
     "icon": "https://icons.duckduckgo.com/ip3/catto.pictures.ico",
     "slug": "catto-pro-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 146,
-    "timeWeek": 347,
-    "timeMonth": 413,
+    "time": 404,
+    "timeDay": 236,
+    "timeWeek": 345,
+    "timeMonth": 410,
     "timeYear": 406,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Catto-Pro API",
@@ -50,7 +52,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.upload.catto.pro.ico",
     "slug": "catto-pro-sg-api",
     "status": "down",
-    "uptime": "6.13%",
+    "uptime": "6.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -61,7 +63,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 116,
+      "2025-11-18": 698,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -434,7 +436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/au.upload.catto.pro.ico",
     "slug": "catto-pro-au-api",
     "status": "down",
-    "uptime": "6.13%",
+    "uptime": "6.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -445,7 +447,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-18": 116,
+      "2025-11-18": 698,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
