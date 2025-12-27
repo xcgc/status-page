@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 407,
-    "timeDay": 322,
-    "timeWeek": 437,
-    "timeMonth": 466,
+    "timeDay": 370,
+    "timeWeek": 434,
+    "timeMonth": 469,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2025-11-18": 126
@@ -26,14 +26,14 @@
     "slug": "catto-pro-api",
     "status": "up",
     "uptime": "99.70%",
-    "uptimeDay": "74.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.32%",
     "uptimeMonth": "98.43%",
     "uptimeYear": "99.59%",
     "time": 435,
-    "timeDay": 323,
-    "timeWeek": 387,
-    "timeMonth": 453,
+    "timeDay": 251,
+    "timeWeek": 366,
+    "timeMonth": 447,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-12-25": 371,
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-26": 124,
+      "2025-12-27": 121,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -427,8 +428,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -448,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-26": 124,
+      "2025-12-27": 121,
+      "2025-12-26": 1440,
       "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
@@ -811,8 +812,7 @@
       "2024-12-31": 1440,
       "2024-12-30": 1440,
       "2024-12-29": 1440,
-      "2024-12-28": 1440,
-      "2024-12-27": 1440
+      "2024-12-28": 1440
     }
   },
   {
@@ -827,10 +827,10 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 371,
-    "timeDay": 239,
-    "timeWeek": 370,
-    "timeMonth": 375,
-    "timeYear": 382,
+    "timeDay": 122,
+    "timeWeek": 300,
+    "timeMonth": 357,
+    "timeYear": 381,
     "dailyMinutesDown": {
       "2025-11-28": 31,
       "2025-11-27": 28,
@@ -845,14 +845,14 @@
     "slug": "catto-pro-upload-api",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "74.26%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "96.32%",
     "uptimeMonth": "98.48%",
     "uptimeYear": "99.61%",
     "time": 377,
-    "timeDay": 473,
-    "timeWeek": 399,
-    "timeMonth": 361,
+    "timeDay": 480,
+    "timeWeek": 425,
+    "timeMonth": 365,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2025-12-25": 371,
