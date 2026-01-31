@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 407,
-    "timeDay": 523,
-    "timeWeek": 426,
-    "timeMonth": 406,
-    "timeYear": 423,
+    "timeDay": 262,
+    "timeWeek": 418,
+    "timeMonth": 403,
+    "timeYear": 422,
     "dailyMinutesDown": {
       "2025-11-18": 126
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 425,
-    "timeDay": 395,
-    "timeWeek": 354,
-    "timeMonth": 357,
+    "time": 424,
+    "timeDay": 401,
+    "timeWeek": 372,
+    "timeMonth": 361,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2025-12-25": 371,
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 153,
+      "2026-01-31": 149,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -427,8 +428,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   },
   {
@@ -448,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-30": 153,
+      "2026-01-31": 149,
+      "2026-01-30": 1440,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -811,8 +812,7 @@
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
-      "2025-02-01": 1440,
-      "2025-01-31": 1440
+      "2025-02-01": 1440
     }
   },
   {
@@ -821,16 +821,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.catto.pictures.ico",
     "slug": "catto-pro-dns",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 375,
-    "timeDay": 304,
-    "timeWeek": 482,
-    "timeMonth": 398,
-    "timeYear": 384,
+    "timeDay": 666,
+    "timeWeek": 451,
+    "timeMonth": 406,
+    "timeYear": 385,
     "dailyMinutesDown": {
       "2025-11-28": 31,
       "2025-11-27": 28,
@@ -849,10 +849,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 371,
-    "timeDay": 102,
-    "timeWeek": 368,
-    "timeMonth": 314,
+    "time": 372,
+    "timeDay": 468,
+    "timeWeek": 375,
+    "timeMonth": 324,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2025-12-25": 371,
