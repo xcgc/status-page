@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 408,
-    "timeDay": 356,
-    "timeWeek": 373,
-    "timeMonth": 392,
+    "time": 407,
+    "timeDay": 329,
+    "timeWeek": 341,
+    "timeMonth": 389,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2025-11-18": 126
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 420,
-    "timeDay": 342,
-    "timeWeek": 234,
-    "timeMonth": 305,
-    "timeYear": 419,
+    "time": 419,
+    "timeDay": 775,
+    "timeWeek": 296,
+    "timeMonth": 321,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2025-12-25": 371,
       "2025-11-28": 31,
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-12": 166,
+      "2026-02-13": 167,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -427,8 +428,7 @@
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {
@@ -437,7 +437,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/au.upload.catto.pro.ico",
     "slug": "catto-pro-au-api",
     "status": "down",
-    "uptime": "5.79%",
+    "uptime": "5.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -448,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-12": 166,
+      "2026-02-13": 167,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -811,8 +812,7 @@
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {
@@ -827,10 +827,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 378,
-    "timeDay": 333,
-    "timeWeek": 454,
-    "timeMonth": 414,
-    "timeYear": 390,
+    "timeDay": 613,
+    "timeWeek": 504,
+    "timeMonth": 420,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2025-11-28": 31,
       "2025-11-27": 28,
@@ -850,10 +850,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 377,
-    "timeDay": 436,
-    "timeWeek": 887,
+    "timeDay": 408,
+    "timeWeek": 896,
     "timeMonth": 468,
-    "timeYear": 373,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2025-12-25": 371,
       "2025-11-28": 16,
