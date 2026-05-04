@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 417,
-    "timeDay": 267,
-    "timeWeek": 842,
-    "timeMonth": 490,
-    "timeYear": 426,
+    "time": 418,
+    "timeDay": 657,
+    "timeWeek": 887,
+    "timeMonth": 498,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2025-11-18": 126
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 415,
-    "timeDay": 319,
-    "timeWeek": 335,
-    "timeMonth": 363,
+    "timeDay": 348,
+    "timeWeek": 298,
+    "timeMonth": 364,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2025-12-25": 371,
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-03": 229,
+      "2026-05-04": 226,
+      "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -427,8 +428,7 @@
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
-      "2025-05-05": 1440,
-      "2025-05-04": 1440
+      "2025-05-05": 1440
     }
   },
   {
@@ -448,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-03": 229,
+      "2026-05-04": 226,
+      "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
       "2026-04-30": 1440,
@@ -811,8 +812,7 @@
       "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
-      "2025-05-05": 1440,
-      "2025-05-04": 1440
+      "2025-05-05": 1440
     }
   },
   {
@@ -822,15 +822,15 @@
     "slug": "catto-pro-dns",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "93.31%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "78.73%",
     "uptimeMonth": "95.11%",
     "uptimeYear": "99.56%",
-    "time": 384,
-    "timeDay": 410,
-    "timeWeek": 363,
-    "timeMonth": 363,
-    "timeYear": 388,
+    "time": 385,
+    "timeDay": 581,
+    "timeWeek": 377,
+    "timeMonth": 371,
+    "timeYear": 389,
     "dailyMinutesDown": {
       "2026-05-02": 325,
       "2026-05-01": 1440,
@@ -852,11 +852,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
-    "time": 371,
-    "timeDay": 140,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 373,
+    "time": 372,
+    "timeDay": 529,
+    "timeWeek": 407,
+    "timeMonth": 419,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2025-12-25": 371,
       "2025-11-28": 16,
