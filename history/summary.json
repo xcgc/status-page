@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 416,
-    "timeDay": 310,
-    "timeWeek": 305,
-    "timeMonth": 463,
+    "time": 417,
+    "timeDay": 458,
+    "timeWeek": 358,
+    "timeMonth": 468,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2025-11-18": 126
@@ -31,9 +31,9 @@
     "uptimeMonth": "98.94%",
     "uptimeYear": "99.50%",
     "time": 417,
-    "timeDay": 588,
-    "timeWeek": 399,
-    "timeMonth": 367,
+    "timeDay": 480,
+    "timeWeek": 406,
+    "timeMonth": 371,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2026-05-14": 463,
@@ -64,7 +64,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-14": 1152,
+      "2026-05-15": 238,
+      "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
@@ -427,8 +428,7 @@
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
-      "2025-05-16": 1440,
-      "2025-05-15": 1440
+      "2025-05-16": 1440
     }
   },
   {
@@ -448,7 +448,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-14": 1152,
+      "2026-05-15": 238,
+      "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
       "2026-05-11": 1440,
@@ -811,8 +812,7 @@
       "2025-05-19": 1440,
       "2025-05-18": 1440,
       "2025-05-17": 1440,
-      "2025-05-16": 1440,
-      "2025-05-15": 1440
+      "2025-05-16": 1440
     }
   },
   {
@@ -822,13 +822,13 @@
     "slug": "catto-pro-dns",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "0.02%",
+    "uptimeDay": "36.56%",
     "uptimeWeek": "62.88%",
     "uptimeMonth": "86.56%",
     "uptimeYear": "98.86%",
     "time": 384,
-    "timeDay": 659,
-    "timeWeek": 270,
+    "timeDay": 463,
+    "timeWeek": 252,
     "timeMonth": 324,
     "timeYear": 389,
     "dailyMinutesDown": {
@@ -855,10 +855,10 @@
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.53%",
     "time": 368,
-    "timeDay": 145,
-    "timeWeek": 429,
-    "timeMonth": 429,
-    "timeYear": 373,
+    "timeDay": 138,
+    "timeWeek": 379,
+    "timeMonth": 418,
+    "timeYear": 372,
     "dailyMinutesDown": {
       "2026-05-14": 453,
       "2025-12-25": 371,
