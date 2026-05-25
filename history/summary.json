@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 417,
-    "timeDay": 105,
-    "timeWeek": 313,
-    "timeMonth": 445,
+    "timeDay": 466,
+    "timeWeek": 329,
+    "timeMonth": 457,
     "timeYear": 422,
     "dailyMinutesDown": {
       "2025-11-18": 126
@@ -27,13 +27,13 @@
     "status": "up",
     "uptime": "99.69%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.21%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "98.07%",
     "uptimeYear": "99.43%",
     "time": 419,
-    "timeDay": 273,
-    "timeWeek": 505,
-    "timeMonth": 402,
+    "timeDay": 378,
+    "timeWeek": 498,
+    "timeMonth": 404,
     "timeYear": 419,
     "dailyMinutesDown": {
       "2025-08-27": 355,
@@ -66,7 +66,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 249,
+      "2026-05-25": 260,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -429,8 +430,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   },
   {
@@ -450,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 249,
+      "2026-05-25": 260,
+      "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
@@ -813,8 +814,7 @@
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
-      "2025-05-26": 1440,
-      "2025-05-25": 1440
+      "2025-05-26": 1440
     }
   },
   {
@@ -825,13 +825,13 @@
     "status": "up",
     "uptime": "99.46%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.71%",
+    "uptimeWeek": "98.45%",
     "uptimeMonth": "85.35%",
     "uptimeYear": "98.76%",
     "time": 383,
-    "timeDay": 334,
-    "timeWeek": 339,
-    "timeMonth": 317,
+    "timeDay": 387,
+    "timeWeek": 279,
+    "timeMonth": 321,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2025-10-31": 65,
@@ -855,13 +855,13 @@
     "status": "up",
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.91%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "99.47%",
     "time": 368,
-    "timeDay": 132,
-    "timeWeek": 406,
-    "timeMonth": 356,
+    "timeDay": 424,
+    "timeWeek": 456,
+    "timeMonth": 364,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2025-08-27": 355,
