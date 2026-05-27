@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 417,
-    "timeDay": 287,
-    "timeWeek": 327,
-    "timeMonth": 457,
-    "timeYear": 422,
+    "timeDay": 355,
+    "timeWeek": 334,
+    "timeMonth": 458,
+    "timeYear": 421,
     "dailyMinutesDown": {
       "2025-11-18": 126
     }
@@ -32,8 +32,8 @@
     "uptimeYear": "99.43%",
     "time": 420,
     "timeDay": 401,
-    "timeWeek": 483,
-    "timeMonth": 409,
+    "timeWeek": 508,
+    "timeMonth": 403,
     "timeYear": 418,
     "dailyMinutesDown": {
       "2025-08-27": 355,
@@ -66,7 +66,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 245,
+      "2026-05-27": 259,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -429,8 +430,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -450,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-26": 245,
+      "2026-05-27": 259,
+      "2026-05-26": 1440,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -813,8 +814,7 @@
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
-      "2025-05-28": 1440,
-      "2025-05-27": 1440
+      "2025-05-28": 1440
     }
   },
   {
@@ -829,9 +829,9 @@
     "uptimeMonth": "85.35%",
     "uptimeYear": "98.76%",
     "time": 382,
-    "timeDay": 187,
-    "timeWeek": 280,
-    "timeMonth": 322,
+    "timeDay": 370,
+    "timeWeek": 320,
+    "timeMonth": 318,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-10-31": 65,
@@ -859,9 +859,9 @@
     "uptimeMonth": "98.25%",
     "uptimeYear": "99.47%",
     "time": 369,
-    "timeDay": 365,
-    "timeWeek": 475,
-    "timeMonth": 372,
+    "timeDay": 310,
+    "timeWeek": 480,
+    "timeMonth": 364,
     "timeYear": 371,
     "dailyMinutesDown": {
       "2025-08-27": 355,
