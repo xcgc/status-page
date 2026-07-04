@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 415,
-    "timeDay": 99,
-    "timeWeek": 255,
+    "timeDay": 422,
+    "timeWeek": 275,
     "timeMonth": 328,
     "timeYear": 413,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 421,
-    "timeDay": 547,
-    "timeWeek": 615,
-    "timeMonth": 446,
+    "timeDay": 321,
+    "timeWeek": 621,
+    "timeMonth": 445,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2025-08-27": 355,
@@ -66,7 +66,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 228,
+      "2026-07-04": 219,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -429,8 +430,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   },
   {
@@ -450,7 +450,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 228,
+      "2026-07-04": 219,
+      "2026-07-03": 1440,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
@@ -813,8 +814,7 @@
       "2025-07-08": 1440,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
-      "2025-07-05": 1440,
-      "2025-07-04": 1440
+      "2025-07-05": 1440
     }
   },
   {
@@ -829,9 +829,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.76%",
     "time": 388,
-    "timeDay": 315,
-    "timeWeek": 454,
-    "timeMonth": 392,
+    "timeDay": 363,
+    "timeWeek": 450,
+    "timeMonth": 388,
     "timeYear": 385,
     "dailyMinutesDown": {
       "2025-10-31": 65,
@@ -859,9 +859,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
     "time": 376,
-    "timeDay": 155,
-    "timeWeek": 695,
-    "timeMonth": 438,
+    "timeDay": 301,
+    "timeWeek": 535,
+    "timeMonth": 435,
     "timeYear": 379,
     "dailyMinutesDown": {
       "2025-08-27": 355,
