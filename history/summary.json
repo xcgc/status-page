@@ -4,19 +4,20 @@
     "url": "https://catto.pictures",
     "icon": "https://icons.duckduckgo.com/ip3/catto.pictures.ico",
     "slug": "catto-pro-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 413,
-    "timeDay": 267,
-    "timeWeek": 388,
-    "timeMonth": 356,
-    "timeYear": 410,
+    "time": 412,
+    "timeDay": 147,
+    "timeWeek": 343,
+    "timeMonth": 346,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-11-18": 126
+      "2025-11-18": 126,
+      "2026-08-02": 1
     }
   },
   {
@@ -66,7 +67,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 208,
+      "2026-08-02": 1092,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -450,7 +451,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 208,
+      "2026-08-02": 1092,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
