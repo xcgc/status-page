@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 414,
-    "timeDay": 392,
-    "timeWeek": 403,
-    "timeMonth": 375,
+    "timeDay": 559,
+    "timeWeek": 421,
+    "timeMonth": 377,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-11-18": 126,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 428,
-    "timeDay": 196,
-    "timeWeek": 537,
-    "timeMonth": 441,
+    "timeDay": 612,
+    "timeWeek": 552,
+    "timeMonth": 449,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2025-10-31": 87,
@@ -65,7 +65,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-05": 302,
+      "2026-10-06": 349,
+      "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -428,8 +429,7 @@
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
-      "2025-10-07": 1440,
-      "2025-10-06": 1440
+      "2025-10-07": 1440
     }
   },
   {
@@ -449,7 +449,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-05": 302,
+      "2026-10-06": 349,
+      "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -812,8 +813,7 @@
       "2025-10-10": 1440,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
-      "2025-10-07": 1440,
-      "2025-10-06": 1440
+      "2025-10-07": 1440
     }
   },
   {
@@ -822,15 +822,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.catto.pictures.ico",
     "slug": "catto-pro-dns",
     "status": "down",
-    "uptime": "98.67%",
+    "uptime": "98.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.34%",
-    "uptimeYear": "94.70%",
+    "uptimeMonth": "47.94%",
+    "uptimeYear": "94.42%",
     "time": 388,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 386,
+    "timeMonth": 377,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2025-10-31": 65,
@@ -844,7 +844,8 @@
       "2026-05-12": 1150,
       "2026-05-17": 377,
       "2026-05-18": 156,
-      "2026-10-05": 302,
+      "2026-10-06": 349,
+      "2026-10-05": 1440,
       "2026-10-04": 1440,
       "2026-10-03": 1440,
       "2026-10-02": 1440,
@@ -874,10 +875,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 384,
-    "timeDay": 199,
-    "timeWeek": 383,
-    "timeMonth": 365,
-    "timeYear": 393,
+    "timeDay": 483,
+    "timeWeek": 425,
+    "timeMonth": 374,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2025-10-31": 65,
       "2025-11-11": 33,
