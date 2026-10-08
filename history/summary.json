@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 414,
-    "timeDay": 309,
-    "timeWeek": 414,
-    "timeMonth": 375,
+    "time": 415,
+    "timeDay": 442,
+    "timeWeek": 427,
+    "timeMonth": 381,
     "timeYear": 406,
     "dailyMinutesDown": {
       "2025-11-18": 126,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 429,
-    "timeDay": 1256,
-    "timeWeek": 677,
-    "timeMonth": 480,
+    "timeDay": 539,
+    "timeWeek": 736,
+    "timeMonth": 486,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2025-10-31": 87,
@@ -65,7 +65,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-07": 321,
+      "2026-10-08": 330,
+      "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -428,8 +429,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -449,7 +449,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-07": 321,
+      "2026-10-08": 330,
+      "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -812,8 +813,7 @@
       "2025-10-12": 1440,
       "2025-10-11": 1440,
       "2025-10-10": 1440,
-      "2025-10-09": 1440,
-      "2025-10-08": 1440
+      "2025-10-09": 1440
     }
   },
   {
@@ -822,16 +822,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.catto.pictures.ico",
     "slug": "catto-pro-dns",
     "status": "down",
-    "uptime": "98.56%",
+    "uptime": "98.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "44.72%",
-    "uptimeYear": "94.15%",
+    "uptimeMonth": "41.41%",
+    "uptimeYear": "93.87%",
     "time": 388,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 374,
-    "timeYear": 381,
+    "timeMonth": 382,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2025-10-31": 65,
       "2025-11-27": 28,
@@ -844,7 +844,8 @@
       "2026-05-12": 1150,
       "2026-05-17": 377,
       "2026-05-18": 156,
-      "2026-10-07": 321,
+      "2026-10-08": 330,
+      "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
       "2026-10-04": 1440,
@@ -876,9 +877,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 384,
-    "timeDay": 339,
-    "timeWeek": 420,
-    "timeMonth": 375,
+    "timeDay": 349,
+    "timeWeek": 417,
+    "timeMonth": 368,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2025-10-31": 65,
